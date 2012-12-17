@@ -3,7 +3,7 @@
     "version": "1.0",
     "manifest_version": 2,
 
-    "description": "Extension Chrome permettant d'ajouter un lien de téléchargement HD sur les vidéos Gaming Live de Jeux-Video.com",
+    "description": "Extension permettant d'ajouter un lien de téléchargement HD sur les vidéos Gaming Live de Jeux-Video.com",
     "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
