@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>rmat0n</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>10600.1.25.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>gaminglive-hd-link</string>
 	<key>CFBundleIdentifier</key>
@@ -31,9 +31,15 @@
 				<string>jquery-1.7.2.js</string>
 			</array>
 		</dict>
+		<key>Whitelist</key>
+		<array>
+			<string>http://www.jeuxvideo.com/gaming-live/*</string>
+		</array>
 	</dict>
 	<key>Description</key>
 	<string>Extension permettant d'ajouter un lien de téléchargement HD sur les vidéos Gaming Live de Jeux-Video.com</string>
+	<key>DeveloperIdentifier</key>
+	<string>42P6KZ52YP</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
