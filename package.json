@@ -1,0 +1,22 @@
+{
+  "name": "gaminglive-hd-link",
+  "version": "1.0.0",
+  "description": "Extension permettant d'ajouter un lien de téléchargement HD sur les vidéos Gaming Live de Jeux-Video.com",
+  "author": "rmat0n",
+  "license": "ISC",
+
+  "homepage": "https://github.com/rmat0n/gaminglive-hd-link",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rmat0n/gaminglive-hd-link.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rmat0n/gaminglive-hd-link/issues"
+  },
+
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "gulp-rename": "^1.2.0"
+  }
+}
