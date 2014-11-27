@@ -3,7 +3,7 @@ var jshint = require('gulp-jshint');
 var rename = require('gulp-rename');
 
 gulp.task('lint', function() {
-  return gulp.src('lib/link.js')
+  return gulp.src('libs/link.js')
     .pipe(jshint())
     .pipe(jshint.reporter('default'));
 });
