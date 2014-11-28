@@ -24,7 +24,7 @@ gulp.task('icons', function() {
 });
 
 gulp.task('watch', function() {
-  gulp.watch('js/*.js', ['lint', 'scripts']);
+  gulp.watch('libs/*.js', ['lint', 'scripts']);
   gulp.watch('icons/*.png', ['icons']);
 });
 
