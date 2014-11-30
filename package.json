@@ -6,6 +6,9 @@
   "author": "rmat0n",
   "license": "ISC",
 
+  "icon": "icons/icon48.png",
+  "icon64": "icons/icon64.png",
+
   "homepage": "https://github.com/rmat0n/gaminglive-hd-link",
   "repository": {
     "type": "git",

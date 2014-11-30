@@ -8,6 +8,7 @@ chrome/link.js
 firefox/package.json
 firefox/data/jquery*.js
 firefox/data/link.js
+firefox/icons/*
 
 safari/gaminglive-hd-link.safariextension/*.png
 safari/gaminglive-hd-link.safariextension/jquery*.js

@@ -23,6 +23,7 @@ gulp.task('scripts', function() {
 gulp.task('icons', function() {
   return gulp.src('icons/*.png')
     .pipe(gulp.dest('chrome'))
+    .pipe(gulp.dest('firefox/icons'))
     .pipe(rename(function (path) {
       path.basename = path.basename.substring(0, 4) + "-" + path.basename.substring(4);
     }))
