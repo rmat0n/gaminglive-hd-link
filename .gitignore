@@ -5,6 +5,10 @@ chrome/*.png
 chrome/jquery*.js
 chrome/link.js
 
+firefox/package.json
+firefox/data/jquery*.js
+firefox/data/link.js
+
 safari/gaminglive-hd-link.safariextension/*.png
 safari/gaminglive-hd-link.safariextension/jquery*.js
 safari/gaminglive-hd-link.safariextension/link.js
