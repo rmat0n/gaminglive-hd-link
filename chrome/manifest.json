@@ -1,6 +1,6 @@
 ﻿{
     "name": "Gaming Live HD link",
-    "version": "1.0",
+    "version": "1.1.0",
     "manifest_version": 2,
 
     "description": "Extension permettant d'ajouter un lien de téléchargement HD sur les vidéos Gaming Live de Jeux-Video.com",
@@ -21,7 +21,7 @@
     },
 
     "content_scripts":[{
-        "matches": ["http://www.jeuxvideo.com/gaming-live/*"],
+        "matches": ["http://www.jeuxvideo.com/videos/gaming-live/*"],
         "js": ["jquery-1.7.2.js", "link.js"],
         "run_at": "document_start",
         "all_frames": true

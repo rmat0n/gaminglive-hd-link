@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>rmat0n</string>
 	<key>Builder Version</key>
-	<string>10600.1.25.1</string>
+	<string>10600.3.18</string>
 	<key>CFBundleDisplayName</key>
 	<string>gaminglive-hd-link</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.1</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -33,7 +33,7 @@
 		</dict>
 		<key>Whitelist</key>
 		<array>
-			<string>http://www.jeuxvideo.com/gaming-live/*</string>
+			<string>http://www.jeuxvideo.com/videos/gaming-live/*</string>
 		</array>
 	</dict>
 	<key>Description</key>
@@ -41,7 +41,7 @@
 	<key>DeveloperIdentifier</key>
 	<string>42P6KZ52YP</string>
 	<key>ExtensionInfoDictionaryVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>Permissions</key>
 	<dict>
 		<key>Website Access</key>
